@@ -29,7 +29,7 @@
 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelRosario-C&bg_color=1F1F1F&color=FFFFFF&line=1FFF00&point=118900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SamuelWSRosario&bg_color=1F1F1F&color=FFFFFF&line=1FFF00&point=118900&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div>
  <ul>
