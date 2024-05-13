@@ -1,0 +1,4 @@
+Sites também geram carbono pois quanto maior tráfego, imagens e efeitos etc., fazem com que o site
+nescessite de mais processamento e demora, consumindo energia, ou seja, gerando alto teor carbônico;
+
+essa extensão tem como objetivo mostrar como os sites ficariam quando seu carbono é diminuído;

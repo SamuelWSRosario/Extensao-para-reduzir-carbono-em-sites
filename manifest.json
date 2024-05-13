@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Unama - redutor de carbono (website)",
+  "version": "1.0",
+  "description": "Trabalho do professor Alan Engenharia de Software, extensão para o chrome que reduz o carbono.",
+  "author": "CodeCrafters",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "./index.html"
+  }
+}
